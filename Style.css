@@ -1,0 +1,14 @@
+#box {
+  color: yellow;
+  background: red;
+}
+h1, h2, h3 {
+  color: green;
+  text-align: center;
+  font-family: Courier New;
+}
+
+button {
+  background-color: grey;
+  color: red;
+}
